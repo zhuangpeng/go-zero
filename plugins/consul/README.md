@@ -5,7 +5,7 @@ Prerequisites:
 Download the module:
 
 ```console
-go get -u github.com/suyuan32/simple-admin-tools/plugins/registry/consul
+go get -u github.com/zhuangpeng/rabbit-tools/plugins/registry/consul
 ```
 
 For example:
