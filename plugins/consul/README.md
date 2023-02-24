@@ -38,7 +38,7 @@ type Config struct {
 - main.go
 
 ```go
-import _ "github.com/suyuan32/simple-admin-tools/plugins/registry/consul"
+import _ "github.com/zhuangpeng/rabbit-tools/plugins/consul"
 
 func main() {
 	flag.Parse()
@@ -61,7 +61,7 @@ func main() {
 - main.go
 
 ```go
-import _ "github.com/suyuan32/simple-admin-tools/plugins/registry/consul"
+import _ "github.com/zhuangpeng/rabbit-tools/plugins/consul"
 ```
 
 - etc/\*.yaml
